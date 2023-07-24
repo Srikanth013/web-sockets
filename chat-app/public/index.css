@@ -1,0 +1,22 @@
+body{
+              background-color:antiquewhite;
+              margin: 0;
+              padding: 0;
+}
+#message-input{
+              margin-left: 27%;
+              margin-top: 25px;
+}
+#chat-form{
+              display: block;
+              background-color:cadetblue;
+              margin-top: 100px;
+              height: 100px;
+              margin-left: 35%;
+              margin-right: 40%;
+              border-radius: 0.25rem;
+}
+li{
+              margin-top: 100px;
+              margin-left: 300px;
+}
